@@ -1,0 +1,19 @@
+#indexing
+str='ahmed raza'
+ch=str[0]
+print(ch)
+ch2=str[1]
+print(ch2)
+ch3=str[2]
+print(ch3)
+ch4=str[3]
+print(ch4)
+ch5=str[4]
+print(ch5)
+print(str[1:4])
+print(str[0:3])
+print(str[0:6])
+print(str[:5])
+print(str[0:])
+print(str[-4:-1])
+print(str[-4:-2])
