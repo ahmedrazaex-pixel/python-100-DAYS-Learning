@@ -1,0 +1,13 @@
+a=2
+b=3
+c=4
+d=5
+print(a+b+c+d)
+print(a*b*c*d)
+print(a-b-c-d)      
+print(a+b-c*d)
+print(a-a+a+a)
+print((a,b,c,d))
+print(a/b)
+print(b/c)
+print(c//d)
