@@ -1,0 +1,9 @@
+a=5
+b=2
+c=3
+d=8
+print(a+c)
+print(b<d)
+print(c>a)
+print(5+2+3+8)
+print(a+b+c+d)
