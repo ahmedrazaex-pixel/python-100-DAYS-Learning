@@ -1,0 +1,11 @@
+#touples
+tup=(2,1,3,1)
+print(type(tup))
+print(tup[0])
+print(tup[1])
+print(tup[2])
+print(tup[3])
+tup=()
+print(tup)
+print=(1,)
+print(tup)
