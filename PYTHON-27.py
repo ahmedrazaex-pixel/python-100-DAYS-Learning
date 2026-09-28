@@ -1,0 +1,10 @@
+a=7
+b=8
+c=9
+d=6
+e=2
+print(a*b*c*e*d)
+print(a-b+c-d)
+print(list[a,b,c,d,e])
+print(e+e+e)
+print(d+d+d)
