@@ -1,0 +1,21 @@
+student={
+      "name":"ahmed raza",
+     "subjects":{
+         "phy":97,
+         "che":95,
+         "math":90
+         }
+}
+#myDICT.KEYS
+print(list(student.keys()))
+#myDICT.VALUES
+print(student.values())
+#myDICT.ITEMS
+print(student.items())
+#myDICT.GET
+print(student["name"])
+print(student.get("name"))
+print(student.get("name2"))
+#myDICT.UPDATE
+student.update({"city":"bahawalpur"})
+print(student)
